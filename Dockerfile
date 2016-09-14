@@ -1,6 +1,6 @@
 FROM kitpages/fizen-web
 
-MAINTAINER Kitpages <system@kitpages.fr>
+MAINTAINER Kitpages <system [at] kibatic.com>
 
 RUN apt-get -qqq update && DEBIAN_FRONTEND=noninteractive apt-get install -qqq -y \
     build-essential \
