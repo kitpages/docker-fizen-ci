@@ -1,4 +1,4 @@
-FROM kitpages/fizen-web
+FROM kitpages/fizen-web:php72
 
 MAINTAINER Kitpages <system [at] kibatic.com>
 
